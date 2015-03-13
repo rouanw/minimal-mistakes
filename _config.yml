@@ -2,7 +2,7 @@
 
 title:            Site Title
 locale:           en_US
-url:              
+url:
 
 
 # Jekyll configuration
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Rouan Wilsenach
+  avatar: rw.jpg
   bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  email: rmw@thoughtworks.com
+  disqus-shortname:
+  twitter: rouanw
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: rouanw
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: rouanw
   xing: #username
   instagram: #username
   lastfm: #username
