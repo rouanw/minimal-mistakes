@@ -4,21 +4,29 @@ excerpt: "Rouan Wilsenach - Software Developer at ThoughtWorks"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
 ---
 
-Here is a list of talks I've presently recently. Please get in touch if you'd like me to present on these or any other topics at your conference or event.
+Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
 ## Conferences
 
-* JavaScript in South Africa 2014
-* [Agile Africa 2013](http://agileafrica.jcse.org.za/node/36)
-* JavaScript in South Africa 2013
+* __Annotator - bring the conversation to your content__ (JavaScript in South Africa 2014)
+
+* __Four Attributes of an Agile Business__ ([Agile Africa 2014](http://agileafrica.jcse.org.za/node/36))
+
+* __Using lineman to build fat JS apps independent of the server-side__ with Daniel Temme (JavaScript in South Africa 2013)
+
+* __TDD and Pair Programming demonstration__ during “Agile Software Development” presentation and workshop, with Patrick Turley, Daniel Temme and Prasanna Pendse (Tech4Africa 2012)
 
 ## User groups
 
-* [October 2014 Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/197501852/) - Let's release it: An introduction to Continuous Delivery
-* [April 2014 Developer User Group](http://www.meetup.com/DeveloperUG/events/146654382/) - Infrastructure as code: Puppet and Vagrant demo
-* LevelUp Jozi - Developer Yoga: How being flexible helps
+* __Let's release it: An introduction to Continuous Delivery__ ([October 2014 Scrum User Group Johannesburg](http://www.meetup.com/Scrum-User-Group-Johannesburg/events/197501852/))
+
+* __Infrastructure as code, with Puppet and Vagrant__ ([April 2014 Developer User Group](http://www.meetup.com/DeveloperUG/events/146654382/))
+
+* __Developer Yoga: How being flexible helps__ (LevelUp Jozi)
 
 ## ThoughtWorks Technology Radar
-* [August 2014](http://info.thoughtworks.com/techradar-event-2aug2014-johannesburg-registration.html) - Microservices
-* [March 2014](http://info.thoughtworks.com/techradar-event-johannesburg-4march2014-registration.html) - The JavaScript juggernaut rolls on
-* [July 2013](http://info.thoughtworks.com/tech_radar_event_18_july_2013_registration_page.html) - Infrastructure as code
+* __Microservices__ ([August 2014](http://info.thoughtworks.com/techradar-event-2aug2014-johannesburg-registration.html))
+
+* __The JavaScript juggernaut rolls on__ ([March 2014](http://info.thoughtworks.com/techradar-event-johannesburg-4march2014-registration.html))
+
+* __Infrastructure as code__ with Rachel Laycock ([July 2013](http://info.thoughtworks.com/tech_radar_event_18_july_2013_registration_page.html))
