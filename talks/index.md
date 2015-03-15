@@ -3,6 +3,7 @@ layout: page
 excerpt: "Rouan Wilsenach - Software Developer at ThoughtWorks"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
 ---
+# Talks
 
 Here is a list of talks I've presently recently. Please get in touch if you'd like me to present at your conference or event.
 
@@ -34,3 +35,9 @@ Here is a list of talks I've presently recently. Please get in touch if you'd li
 # Slides
 
 <iframe src="http://www.slideshare.net/rouanw/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
+## Publications
+
+* __Four attributes of an agile business__ ([Thoughtworks Insights](http://www.thoughtworks.com/insights/blog/four-attributes-agile-business))
+
+* __Why you should hire a polyglot programmer__ ([P2 Magazine](http://thoughtworks.github.io/p2/issue09/hire-polyglot/))
