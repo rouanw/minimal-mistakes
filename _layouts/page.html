@@ -13,6 +13,10 @@
 
 {% include _navigation.html %}
 
+{% unless page.image.feature %}
+  <div class="top-line"></div>
+{% endunless %}
+
 {% if page.image.feature %}
   <div class="image-wrap">
   <img src=
@@ -53,7 +57,7 @@
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}          
+{% include _scripts.html %}
 
 </body>
 </html>
