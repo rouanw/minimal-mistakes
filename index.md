@@ -4,7 +4,7 @@ excerpt: "Rouan Wilsenach - Software Developer at ThoughtWorks"
 tags: [Rouan, Wilsenach, ThoughtWorks, agile, software, developer, development, continuous, delivery]
 ---
 
-I'm a software developer at ThoughtWorks. I'm passionate about creating software that can be applied to improve people’s lives.
+I'm a software developer at ThoughtWorks. I'm passionate about creating software that improves people’s lives.
 
 ## Agile engineering
 
@@ -12,7 +12,7 @@ I believe in building quality into the process of developing software. I'm an ac
 
 ## Polyglot programming
 
-I've delivered systems in Java, .NET, JavaScript, Python and Ruby. Have a look at why I think [Polyglot  programming](http://thoughtworks.github.io/p2/issue09/hire-polyglot/) is so important
+I've delivered systems in Java, .NET, JavaScript, Python and Ruby. Have a look at why I think [polyglot  programming](http://thoughtworks.github.io/p2/issue09/hire-polyglot/) is so important.
 
 ## Consulting
 
